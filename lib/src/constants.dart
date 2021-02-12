@@ -7,4 +7,4 @@ const kRecoverPasswordDescriptionKey =
 const kDebugToolbarKey = const Key('DEBUG_TOOLBAR');
 
 const kMinLogoHeight = 0.0; // hide logo if less than this
-const kMaxLogoHeight = 60.0;
+const kMaxLogoHeight = 85.0;
